@@ -10,7 +10,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import pe.edu.cibertec.tareas_api.model.Usuario;
 import pe.edu.cibertec.tareas_api.repository.UsuarioRepository;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
@@ -87,5 +86,6 @@ verifique que el resultado no sea nulo
         Usuario res = _service.crear(usuario);
 
         assertNotNull(res);
+        verify (_repo, times(1)).save(usuario);
     }
 }
