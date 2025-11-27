@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Implementacion Spring Security",
+    "descripcion": "Implementacion de seguridad Spring Security al proyecto",
+    "fechaInicio": "2025-11-26",
+    "fechaFin": "2025-12-30",
+    "usuario": {"id": 1},
+    "activo": true
+  },
+  {
+    "nombre": "Creacion de un sistema de chat de servicio al cliente",
+    "descripcion": "La creacion de un servicio al cliente digital",
+    "fechaInicio": "2025-11-12",
+    "fechaFin": "2026-03-18",
+    "usuario": {"id": 2},
+    "activo": true
+  }
+]

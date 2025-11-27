@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Creacion de sistema de gestion de roles de usuario",
+    "descripcion": "Crear la gestion de usuarios por roles",
+    "estado": "EN_PROGRESO",
+    "prioridad": "ALTA",
+    "proyecto": {"id": 1},
+    "activo": true
+  },
+  {
+    "titulo": "Recreacion de las interfaces de usuario",
+    "descripcion": "Recrear las interfaces de usuario del anterior framework a Angular mediante Angular Material",
+    "estado": "COMPLETADA",
+    "prioridad": "MEDIA",
+    "proyecto": {"id": 2},
+    "activo": false
+  }
+]

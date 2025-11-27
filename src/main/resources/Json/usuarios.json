@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Andres Ivan",
+    "email": "andresdev@cibertec.dev.pe",
+    "rol": "developer",
+    "activo": true
+  },
+  {
+    "nombre": "Ricardo Espinoza",
+    "email": "ricardoespinozatrabajo@cibertec.edu.pe",
+    "rol": "developer",
+    "activo": true
+  }
+]
